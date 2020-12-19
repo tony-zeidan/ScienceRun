@@ -1,0 +1,50 @@
+What is the closest planet to the sun?,Mercury,Saturn,Earth,Nepton.
+What soil does worms prefer?,Wet,Silt,Dry,Rocky.
+What is something you have to have in a stable structure?,WOOD,STRONG,Windows,Marshmallows.
+What force pulls you down every day?,Gravity,Friction,Pull,Push.
+How many planets are there not including pluto?,8,9,10,7.
+What is the smallest planet?,Mercury,Jupiter,Earth,Moon.
+What is the largest planet?,Jupiter,Earth,Sun,Moon.
+what planet is nicknamed red planet?,Mars,Sun,Jupiter,Moon.
+what two elements is water made of?,2 hydrogen 1 oxygen,5 hydrogen 3 oxygen,3 hydrogen 5 oxygen,1 hydrogen 2 oxygen.
+what is the 1st element of the periodic table?,Hydrogen,Oxygen,Iron,Go.
+what is the hottest planet in our solar system?,Mercury,Sun,Mars,Pluto.
+what planet is famous for its big red spot?,Jupiter,Mars,Mercury,Sun.
+What planet is famous for the beautiful rings that surround it?,Saturn,Mars,Pluto,Jupiter. 
+What is the the second biggest planet?,Saturn,Jupiter,Earth,Pluto.
+what is the second smallest planet?,Mars,Mercury,Jupiter,Saturn.
+what is the closest planet to the earth?,Venus,Saturn,Mercury,Sun.
+what is the closest planet to jupiter?,Mars,Venus,Sun,Pluto.
+what is the closest planet to mars?,Earth,Pluto,Sun,Uranus.
+what is the name of the force holding us to the earth?,Gravity,Push,Pull,Friction. 
+WHAT IS THE closest planet to the sun?,Mercury,Saturn,Mars,Venus.
+What is not a planet?,Sun,Earth,Jupiter,Mars.
+Is the sun a planet?,No,Yes,MAybe,None of the Above.
+what is the second hottest planet?,Venus,Mars,Saturn,JUPITER.
+Have human ever set foot on mars?,No,YES,Maybe,NONE OF THE ABOVE.
+IS THE PLANET  NEPTUNE BIGGER THE EARTH?,Yes,NO,Maybe,None of the Above.
+what is the coldest planet?,Neptune,Mar,Saturn,The Moon.
+When did the apple iphone first become available?,2007,2003,1030,2009.
+what does www stand for?,World Wide Web,What When Wow,Word Wall Words,World War Wow.
+what is the farthest planet from the sun?,Pluto,Mercury,Venus,Moon.
+what goes in the black bin?,paper,food scraps,plastic,juice boxes.
+what planet is the closest to mercury?,venus,mars,sun,moon.
+what is the farthest planet from the earth?,neptune,mars,Pluto,moon.
+what is the farthest planet from the moon?,Neptune,Mercury,Mars,Pluto.
+what does not go in the green bin?,batteries,pizza crust,food scraps,lawn scraps.
+WHAT goes in the the blue bin?,juice boxes,paper,apple,batteries.
+how long will it about take to get to mars?,300 days,1 year,364 days,200 days.
+what is the farthest planet from venus?,uranus,mars,Mercury,saturn.
+how long will it take to get to  saturn?,Three years and two months,two years ten days,1 year,2 years.
+What is the farthest planet from Uranus?,Mercury,mars,earth,venus.
+what is the closest planet to saturn?,jupiter,Mars,Mercury,Venus.
+What planet is known as the ice Giant?,Uranus,Mars,Saturn,Mercury. 
+What is the darkest planet?,Jupiter,The Moon,Saturn,Mars. 
+What is the lightest planet?,Saturn,Mars,Neptune,Venus.
+What goes in the green bin?,Pizza crust,Granola bar wrappers,juice boxes,paper. 
+What does not go in the  black bin?,Food scraps,Paper,Cardboard,sticky notes.
+What does not go in the garbage?,Plastic,Tissues,granola bar wrappers,Snack food bags. 
+what does not go in the blue bin?,Food scraps,Yogurt containers,Juice boxes,Plastic.
+What planet is blue?,Neptune,jupiter,mars,Venus.
+What planet is gray?,Mercury,mars,venus,sun.
+What planet is Red?,mars,mercury,saturn,sun.
